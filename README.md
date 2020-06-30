@@ -2,4 +2,4 @@
 
 ## Demonstration
 
-![](assets/hw13demo.gif)
+![](public/assets/hw13demo.gif)
