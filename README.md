@@ -2,7 +2,7 @@
 
 ## Live Application on Heroku
 
-[Note Taker](https://eat-da-burger-pef.herokuapp.com/)
+[Eat-da-burger](https://eat-da-burger-pef.herokuapp.com/)
 
 ## Demonstration
 
